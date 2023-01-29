@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T06:14:43.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6lRDogmTTJ6lNyWibxiB" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T06:16:53.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qWBSNTgZbCpyJFpAwG67" version="20.8.13" type="github">
   <diagram name="Page-1" id="2y5kcq44ZByHqeCwnkJB">
-    <mxGraphModel dx="1147" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,42 +78,6 @@
             <mxPoint x="270" y="300" as="sourcePoint" />
             <mxPoint x="310" y="285" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Rqs1tYRSAkKovKcfagJW-20" value="Link to Github&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="240" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rqs1tYRSAkKovKcfagJW-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Rqs1tYRSAkKovKcfagJW-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="260" as="sourcePoint" />
-            <mxPoint x="430" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rqs1tYRSAkKovKcfagJW-23" value="Link to Job" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="300" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rqs1tYRSAkKovKcfagJW-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="319.77" as="sourcePoint" />
-            <mxPoint x="420" y="319.77" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rqs1tYRSAkKovKcfagJW-26" value="Link to Linkedin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="190" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rqs1tYRSAkKovKcfagJW-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="209.76999999999998" as="sourcePoint" />
-            <mxPoint x="300" y="209.76999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rqs1tYRSAkKovKcfagJW-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="369.77" as="sourcePoint" />
-            <mxPoint x="300" y="369.77" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rqs1tYRSAkKovKcfagJW-31" value="Link to Github" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
